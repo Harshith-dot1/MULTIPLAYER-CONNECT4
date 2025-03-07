@@ -1,0 +1,8 @@
+This file contains the code for the Connect4 gameplay and its server, and next,the processes for accessing the files are
+1. Save both files in one location.
+2. Select the path and open in cmd(command prompt).
+3. After the path is done.
+4. Open the server.py as (py server.py).
+5. Open the client.py as (py client.py).
+6. Start the game
+7. Once the game is done, repeat the process but only for the client, not for the server. If the server is closed, you need to start from steps 2-4.
